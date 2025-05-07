@@ -1,0 +1,20 @@
+/*
+body {
+    background-color: rgb(230, 94, 76);
+    
+}*/
+label:hover {
+    background-color: #17caf7;
+  }
+
+  label 
+  {
+      display: block;
+max-width: 450px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #e76666;
+  border: 1px solid #8fd3e4;
+  border-radius: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
